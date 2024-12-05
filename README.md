@@ -46,7 +46,7 @@ docker-compose logs -f
 ```
 
 ### Run the miner with more advanced options
-```
+```f
 chmod +x run_sixgpt.sh
 ./run_sixgpt.sh
 ```
